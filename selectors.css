@@ -1,0 +1,36 @@
+nav{
+    border: solid goldenrod;
+    border-width: 1px;
+}
+
+a:link{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+a:hover{
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer; 
+}
+
+ul{
+    list-style-type: none;
+}
+
+.disabled {
+    color: gray;
+}
+
+.active {
+    color: yellow;
+}
+
+.redH4 {
+    color: red;
+}
+.blueH4 {
+    color: blue;
+}
