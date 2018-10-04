@@ -34,3 +34,13 @@ ul{
 .blueH4 {
     color: blue;
 }
+
+.promo {
+    font-weight: bold;
+    color: gold;
+}
+
+input {
+    height: 25px;
+
+}
